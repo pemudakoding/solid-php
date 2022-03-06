@@ -1,0 +1,17 @@
+{
+  "name": "pemudakoding/dive-into-design-pattern",
+  "description": "Learn about design pattern on PHP",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Stiven Katuuk",
+      "email": "pemudakoding@gmail.com"
+    }
+  ],
+  "require": {}
+}
